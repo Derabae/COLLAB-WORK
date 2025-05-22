@@ -1,0 +1,7 @@
+First step- Open the folder through VSc, then create one folder, create another file inside the folder,
+Then press enter, this opens up the file in VSC, after which you create another file in VSC, 
+That is the file you will be working with. NB; the file should be directly linked and opened from VSC
+After this, follow the various git commands, init, add ., config, commit, and save your file,
+Open upn a repo, and push your file to Githbub, also don't forget to add your team mate.
+Quick tip, to open terminal, ctrl + shift + ~ press all at the same time.
+Cheers and Happy Coding. 
